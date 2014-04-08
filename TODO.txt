@@ -1,5 +1,6 @@
 
-- Set up dockerfile for go
+x Set up dockerfile for go
+- Set up env var config to project
 - Add pgsql driver for go
 - Server at least one thing in the db on a route
 - Set up godeps for project
