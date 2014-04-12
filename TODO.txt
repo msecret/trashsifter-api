@@ -1,6 +1,13 @@
 
 x Set up dockerfile for go
-- Set up env var config to project
-- Add pgsql driver for go
-- Server at least one thing in the db on a route
+x Set up env var config to project
+x Add pgsql driver for go
+x Serve at least one thing in the db on a route
+
+- Switch go go web or different rest framework
 - Set up godeps for project
+
+- Set up Dockerfile to use ENTRY and CMD together
+- Get docker clean bash commands working
+
+
